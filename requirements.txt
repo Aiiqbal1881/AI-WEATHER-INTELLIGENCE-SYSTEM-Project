@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+joblib
+tensorflow
+matplotlib
+prophet
+scikit-learn
+chromadb
+langchain
+embedding_functions
+RecursiveCharacterTextSplitter
